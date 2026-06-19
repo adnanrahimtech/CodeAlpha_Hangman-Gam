@@ -1,1 +1,1 @@
-# CodeAlpha_Hangman-Game
+# Hangman-Game
